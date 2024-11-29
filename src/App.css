@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+button{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.appd{
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 20px 0px;
+}
+p{
+    font-size: 18px;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
+h2{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h2:hover{
+    background-color: bisque;
+}
